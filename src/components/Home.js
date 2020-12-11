@@ -44,7 +44,7 @@ export default function Home(){
         return (
             <div>
             <h2>About</h2>
-            <h2>This is a Todo App which manages tasks of day to day professional life.</h2>
+            <h2>This is a Todo App which manages tasks of day to day professional and Personal life.</h2>
             </div>
         );
     }
